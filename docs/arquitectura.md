@@ -15,7 +15,8 @@
 ```markdown
 ## 5. Enlaces Útiles
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
-- [Repositorio Oficial en GitHub](https://github.com/TU_USUARIO/documentacion-sistema-v1)
+- [Repositorio Oficial en GitHub](https://github.com/6301233-create
+/documentacion-sistema-v1)
 ```[cite: 1]
 
 ---
