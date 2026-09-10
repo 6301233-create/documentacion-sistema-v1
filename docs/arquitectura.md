@@ -19,7 +19,7 @@
 /documentacion-sistema-v1)
 ```[cite: 1]
 
----
+
 
 ### **Paso 4: Probar que todo funcione**
 1. Estando en el `README.md`, presiona las teclas **`Ctrl + Shift + V`** para abrir la vista previa[cite: 1].
