@@ -22,3 +22,7 @@ def verificar_stock(cantidad):
         return "Producto Disponible"
     else:
         return "Sin Stock"
+
+## 5. Enlaces Útiles
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Repositorio Oficial en GitHub](https://github.com/5820048-ctrl/documentacion-sistema-v1)
