@@ -2,7 +2,7 @@
 
 ## 1. Navegación
 - [Volver al README Principal](../README.md)
-```
+
 
 4. Presiona **`Ctrl + S`** para guardar.
 
@@ -17,7 +17,7 @@
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Repositorio Oficial en GitHub](https://github.com/6301233-create
 /documentacion-sistema-v1)
-```[cite: 1]
+[cite: 1]
 
 
 
@@ -27,8 +27,3 @@
 
 ---
 
-### **Paso 5: Subir la versión final a GitHub**
-1. Haz clic en el ícono de **Control de Código Fuente** a la izquierda (el ícono de las ramas)[cite: 1].
-2. En el cuadro de texto del mensaje escribe[cite: 1]:
-   ```text
-   docs: agregando estructura de carpetas
