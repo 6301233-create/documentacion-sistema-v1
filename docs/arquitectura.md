@@ -18,8 +18,6 @@
 - [Repositorio Oficial en GitHub](https://github.com/TU_USUARIO/documentacion-sistema-v1)
 ```[cite: 1]
 
-*(⚠️ Reemplaza `TU_USUARIO` por tu usuario real de GitHub y presiona **`Ctrl + S`** para guardar)*[cite: 1].
-
 ---
 
 ### **Paso 4: Probar que todo funcione**
