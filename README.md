@@ -23,8 +23,11 @@ def verificar_stock(cantidad):
     else:
         return "Sin Stock"
 
+
 ## 5. Enlaces Útiles
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Casos de Uso Hospitalarios](docs/arquitectura/casos-de-uso.md)
+- [Ver Diagrama de Secuencia de Login](docs/arquitectura/secuencia-autenticacion.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Especificación de API](docs/api_endpoints.md)
 - [Repositorio Oficial en GitHub](https://github.com/6301233-create/documentacion-sistema-v1)
